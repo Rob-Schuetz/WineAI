@@ -1,34 +1,39 @@
 import pandas as pd
 from datetime import datetime
-from meteostat import Point, Daily
+from meteostat import Daily, Stations
 
 
 class WeatherFetcher:
     def __init__(self, data, start_date):
-        self.data = data
-        self.start_date = datetime(2000, 1, 1)
+        self.input = data # pd.DataFrame with the following columns ['Longitude', 'Latitude', 'Vintage Year]
+        self.start_date = start_date # How far back to pull historical weather data
+        self.daily_weather_data = {} # Dictionary to capture returned weather data frames, shares index with self.input
 
     def get_weather(self):
 
         def get_stop_date(row):
             """Determine when to stop pulling weather data from the year the 
             wine was bottled"""
-            return datetime(row['year'], 12, 31)
+            return datetime(int(row['Vintage Year']), 12, 31)
 
         def query_weather(row):
             """Query with lat/long coordinates and get daily data"""
-            
+
             # Set time period
             start = self.start_date
-            end = row['weather_end_date']
+            end = get_stop_date(row)
 
-            # Create Point for provided coordinates
-            weather_point = Point(row['lat'], row['long'], 70)
+            # Get the closest weather station
+            stations = Stations()
+            stations = stations.nearby(row['Latitude'], row['Longitude'])
+            station = stations.fetch(1).index.values[0]
 
-            # Get daily data for 2018
-            data = Daily(weather_point, start, end)
-            self.weather_data = data.fetch()
+            # Get daily data bewtween designated date range
+            data = Daily(station, start, end)
+            return data.fetch()
 
         # Run the functions on every row in the provided database
-        self.data['weather_end_date'] = self.data.apply(get_stop_date, axis = 1)
-        self.data['weather_data'] = self.data.apply(query_weather, axis = 1)
+        # self.data['weather_data'] = self.data.apply(query_weather, axis = 1)
+        for idx, row in self.input.iterrows():
+            self.daily_weather_data[idx] = query_weather(row)
+
