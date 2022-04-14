@@ -1,0 +1,4 @@
+## PROJECT DIRECTORIES
+project_root: ~/projects/WineAI
+output_root: output
+input_root: input
