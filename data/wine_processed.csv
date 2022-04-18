@@ -1,0 +1,363 @@
+,skin,region,vintage,quality
+0,thick,central coast,1998,83.0
+1,thick,central coast,1999,86.0
+2,thick,central coast,2000,84.0
+3,thick,central coast,2001,91.0
+4,thick,central coast,2002,88.0
+5,thick,central coast,2003,92.0
+6,thick,central coast,2004,86.0
+7,thick,central coast,2005,84.0
+8,thick,central coast,2006,85.0
+9,thick,central coast,2007,90.0
+10,thick,central coast,2008,87.0
+11,thick,central coast,2009,87.0
+12,thick,central coast,2010,89.0
+13,thick,central coast,2011,88.0
+14,thick,central coast,2012,89.0
+15,thick,central coast,2013,90.0
+16,thick,central coast,2014,92.0
+17,thick,central coast,2015,91.0
+18,thick,central coast,2016,92.0
+19,thick,central coast,2017,92.0
+20,thick,central coast,2018,92.0
+21,thick,central coast,2019,93.0
+22,thick,central coast,2020,92.0
+23,thick,columbia valley,1996,87.0
+24,thick,columbia valley,1997,87.0
+25,thick,columbia valley,1998,90.0
+26,thick,columbia valley,1999,94.0
+27,thick,columbia valley,2000,88.0
+28,thick,columbia valley,2001,92.5
+29,thick,columbia valley,2002,94.0
+30,thick,columbia valley,2003,91.5
+31,thick,columbia valley,2004,89.5
+32,thick,columbia valley,2005,94.0
+33,thick,columbia valley,2006,91.5
+34,thick,columbia valley,2007,91.0
+35,thick,columbia valley,2008,91.0
+36,thick,columbia valley,2009,90.5
+37,thick,columbia valley,2010,90.5
+38,thick,columbia valley,2011,90.0
+39,thick,columbia valley,2012,95.0
+40,thick,columbia valley,2013,90.5
+41,thick,columbia valley,2014,91.5
+42,thick,columbia valley,2015,90.5
+43,thick,columbia valley,2016,90.5
+44,thick,columbia valley,2017,91.0
+45,thick,columbia valley,2018,94.0
+46,thick,columbia valley,2019,92.5
+47,thick,columbia valley,2020,91.5
+48,thick,napa,1996,90.5
+49,thick,napa,1997,92.5
+50,thick,napa,1998,85.0
+51,thick,napa,1999,91.5
+52,thick,napa,2000,85.0
+53,thick,napa,2001,94.5
+54,thick,napa,2002,89.5
+55,thick,napa,2003,89.0
+56,thick,napa,2004,90.0
+57,thick,napa,2005,88.5
+58,thick,napa,2006,91.0
+59,thick,napa,2007,92.0
+60,thick,napa,2008,92.0
+61,thick,napa,2009,90.5
+62,thick,napa,2010,89.0
+63,thick,napa,2011,89.0
+64,thick,napa,2012,90.5
+65,thick,napa,2013,94.0
+66,thick,napa,2014,93.5
+67,thick,napa,2015,94.0
+68,thick,napa,2016,94.0
+69,thick,napa,2017,89.5
+70,thick,napa,2018,92.0
+71,thick,napa,2019,92.0
+72,thick,napa,2020,90.0
+73,thick,north coast,1998,83.0
+74,thick,north coast,1999,89.0
+75,thick,north coast,2000,84.0
+76,thick,north coast,2001,92.0
+77,thick,north coast,2002,88.0
+78,thick,north coast,2003,89.0
+79,thick,north coast,2004,89.0
+80,thick,north coast,2005,85.0
+81,thick,north coast,2006,88.0
+82,thick,north coast,2007,93.0
+83,thick,north coast,2008,88.0
+84,thick,north coast,2009,88.0
+85,thick,north coast,2010,88.0
+86,thick,north coast,2011,89.0
+87,thick,north coast,2012,92.0
+88,thick,north coast,2013,91.0
+89,thick,north coast,2014,91.0
+90,thick,north coast,2015,92.0
+91,thick,north coast,2016,92.0
+92,thick,north coast,2017,90.0
+93,thick,north coast,2018,91.0
+94,thick,north coast,2019,92.0
+95,thick,north coast,2020,89.0
+96,thick,sierra foothills,1996,85.0
+97,thick,sierra foothills,1997,84.0
+98,thick,sierra foothills,1998,84.0
+99,thick,sierra foothills,1999,85.0
+100,thick,sierra foothills,2000,84.0
+101,thick,sierra foothills,2001,85.0
+102,thick,sierra foothills,2002,86.0
+103,thick,sierra foothills,2003,87.0
+104,thick,sierra foothills,2004,89.0
+105,thick,sierra foothills,2005,87.0
+106,thick,sierra foothills,2006,87.0
+107,thick,sierra foothills,2007,90.0
+108,thick,sierra foothills,2008,88.0
+109,thick,sierra foothills,2009,90.0
+110,thick,sierra foothills,2010,91.0
+111,thick,sierra foothills,2011,89.0
+112,thick,sierra foothills,2012,92.0
+113,thick,sierra foothills,2013,93.0
+114,thick,sierra foothills,2014,93.0
+115,thick,sierra foothills,2015,94.0
+116,thick,sierra foothills,2016,94.0
+117,thick,sierra foothills,2017,89.0
+118,thick,sierra foothills,2018,93.0
+119,thick,sierra foothills,2019,91.0
+120,thick,sierra foothills,2020,92.0
+121,thick,sonoma,1996,90.0
+122,thick,sonoma,1997,89.5
+123,thick,sonoma,1998,85.0
+124,thick,sonoma,1999,90.0
+125,thick,sonoma,2000,85.0
+126,thick,sonoma,2001,92.0
+127,thick,sonoma,2002,88.0
+128,thick,sonoma,2003,89.0
+129,thick,sonoma,2004,88.5
+130,thick,sonoma,2005,89.5
+131,thick,sonoma,2006,86.5
+132,thick,sonoma,2007,92.5
+133,thick,sonoma,2008,89.0
+134,thick,sonoma,2009,88.0
+135,thick,sonoma,2010,88.0
+136,thick,sonoma,2011,88.5
+137,thick,sonoma,2012,92.5
+138,thick,sonoma,2013,93.5
+139,thick,sonoma,2014,93.0
+140,thick,sonoma,2015,93.0
+141,thick,sonoma,2016,93.5
+142,thick,sonoma,2017,89.5
+143,thick,sonoma,2018,92.0
+144,thick,sonoma,2019,91.0
+145,thick,sonoma,2020,90.0
+146,thick,south coast,1998,83.0
+147,thick,south coast,1999,88.0
+148,thick,south coast,2000,85.0
+149,thick,south coast,2001,92.0
+150,thick,south coast,2002,89.0
+151,thick,south coast,2003,91.0
+152,thick,south coast,2004,89.0
+153,thick,south coast,2005,87.0
+154,thick,south coast,2006,91.0
+155,thick,south coast,2007,95.0
+156,thick,south coast,2008,88.0
+157,thick,south coast,2009,90.0
+158,thick,south coast,2010,90.0
+159,thick,south coast,2011,87.0
+160,thick,south coast,2012,88.0
+161,thick,south coast,2013,88.0
+162,thick,south coast,2014,88.0
+163,thick,south coast,2015,88.0
+164,thick,south coast,2016,88.0
+165,thick,south coast,2017,89.0
+166,thick,south coast,2018,89.0
+167,thick,south coast,2019,89.0
+168,thick,south coast,2020,89.0
+169,thin,RRV,1996,91.0
+170,thin,RRV,1997,93.0
+171,thin,RRV,1998,86.5
+172,thin,RRV,1999,91.5
+173,thin,RRV,2000,89.5
+174,thin,RRV,2001,91.5
+175,thin,RRV,2002,93.0
+176,thin,RRV,2003,90.5
+177,thin,RRV,2004,93.0
+178,thin,RRV,2005,93.0
+179,thin,RRV,2006,86.5
+180,thin,RRV,2007,94.0
+181,thin,RRV,2008,91.0
+182,thin,RRV,2009,88.5
+183,thin,RRV,2010,90.0
+184,thin,RRV,2011,89.0
+185,thin,RRV,2012,94.0
+186,thin,RRV,2013,94.5
+187,thin,RRV,2014,94.0
+188,thin,RRV,2015,92.0
+189,thin,RRV,2016,94.5
+190,thin,RRV,2017,92.0
+191,thin,RRV,2018,94.0
+192,thin,RRV,2019,94.0
+193,thin,RRV,2020,92.5
+194,thin,anderson valley,2002,87.0
+195,thin,anderson valley,2003,90.0
+196,thin,anderson valley,2004,90.0
+197,thin,anderson valley,2005,94.0
+198,thin,anderson valley,2006,88.0
+199,thin,anderson valley,2007,95.0
+200,thin,anderson valley,2008,92.0
+201,thin,anderson valley,2009,93.0
+202,thin,anderson valley,2010,93.0
+203,thin,anderson valley,2011,91.0
+204,thin,anderson valley,2012,96.0
+205,thin,anderson valley,2013,95.0
+206,thin,anderson valley,2014,93.0
+207,thin,anderson valley,2015,94.0
+208,thin,anderson valley,2016,92.0
+209,thin,anderson valley,2017,90.0
+210,thin,anderson valley,2018,95.0
+211,thin,anderson valley,2019,93.0
+212,thin,anderson valley,2020,89.0
+213,thin,carneros,1996,88.0
+214,thin,carneros,1997,88.0
+215,thin,carneros,1998,84.0
+216,thin,carneros,1999,88.0
+217,thin,carneros,2000,87.0
+218,thin,carneros,2001,90.0
+219,thin,carneros,2002,90.0
+220,thin,carneros,2003,90.0
+221,thin,carneros,2004,90.5
+222,thin,carneros,2005,90.0
+223,thin,carneros,2006,85.5
+224,thin,carneros,2007,92.5
+225,thin,carneros,2008,89.5
+226,thin,carneros,2009,88.0
+227,thin,carneros,2010,89.0
+228,thin,carneros,2011,87.5
+229,thin,carneros,2012,92.5
+230,thin,carneros,2013,93.5
+231,thin,carneros,2014,93.5
+232,thin,carneros,2015,90.5
+233,thin,carneros,2016,92.0
+234,thin,carneros,2017,91.5
+235,thin,carneros,2018,91.5
+236,thin,carneros,2019,90.5
+237,thin,carneros,2020,90.5
+238,thin,central coast,1996,87.5
+239,thin,central coast,1997,93.5
+240,thin,central coast,1998,85.5
+241,thin,central coast,1999,89.0
+242,thin,central coast,2000,88.5
+243,thin,central coast,2001,90.5
+244,thin,central coast,2002,89.5
+245,thin,central coast,2003,92.5
+246,thin,central coast,2004,91.0
+247,thin,central coast,2005,91.0
+248,thin,central coast,2006,87.5
+249,thin,central coast,2007,93.0
+250,thin,central coast,2008,89.5
+251,thin,central coast,2009,88.5
+252,thin,central coast,2010,92.0
+253,thin,central coast,2011,89.0
+254,thin,central coast,2012,92.0
+255,thin,central coast,2013,92.0
+256,thin,central coast,2014,92.5
+257,thin,central coast,2015,91.0
+258,thin,central coast,2016,92.0
+259,thin,central coast,2017,91.0
+260,thin,central coast,2018,92.0
+261,thin,central coast,2019,92.5
+262,thin,central coast,2020,91.5
+263,thin,napa,1996,90.0
+264,thin,napa,1997,94.0
+265,thin,napa,1998,87.0
+266,thin,napa,1999,88.0
+267,thin,napa,2000,88.0
+268,thin,napa,2001,90.0
+269,thin,napa,2002,90.0
+270,thin,napa,2003,85.0
+271,thin,napa,2004,85.0
+272,thin,napa,2005,86.0
+273,thin,napa,2006,86.0
+274,thin,napa,2007,90.0
+275,thin,napa,2008,87.0
+276,thin,napa,2009,88.0
+277,thin,napa,2010,87.0
+278,thin,napa,2011,87.0
+279,thin,napa,2012,91.0
+280,thin,napa,2013,91.0
+281,thin,napa,2014,92.0
+282,thin,napa,2015,90.0
+283,thin,napa,2016,94.0
+284,thin,napa,2017,90.0
+285,thin,napa,2018,93.0
+286,thin,napa,2019,92.0
+287,thin,santa barbara,1996,89.5
+288,thin,santa barbara,1997,95.0
+289,thin,santa barbara,1998,86.0
+290,thin,santa barbara,1999,90.5
+291,thin,santa barbara,2000,88.5
+292,thin,santa barbara,2001,91.5
+293,thin,santa barbara,2002,94.0
+294,thin,santa barbara,2003,93.0
+295,thin,santa barbara,2004,92.5
+296,thin,santa barbara,2005,92.0
+297,thin,santa barbara,2006,90.0
+298,thin,santa barbara,2007,93.5
+299,thin,santa barbara,2008,91.5
+300,thin,santa barbara,2009,90.5
+301,thin,santa barbara,2010,92.0
+302,thin,santa barbara,2011,91.0
+303,thin,santa barbara,2012,93.5
+304,thin,santa barbara,2013,93.0
+305,thin,santa barbara,2014,93.0
+306,thin,santa barbara,2015,92.5
+307,thin,santa barbara,2016,93.5
+308,thin,santa barbara,2017,92.0
+309,thin,santa barbara,2018,93.0
+310,thin,santa barbara,2019,93.5
+311,thin,santa barbara,2020,92.5
+312,thin,sonoma,1996,88.0
+313,thin,sonoma,1997,90.0
+314,thin,sonoma,1998,85.0
+315,thin,sonoma,1999,90.0
+316,thin,sonoma,2000,87.0
+317,thin,sonoma,2001,89.0
+318,thin,sonoma,2002,88.0
+319,thin,sonoma,2003,89.0
+320,thin,sonoma,2004,93.0
+321,thin,sonoma,2005,95.0
+322,thin,sonoma,2006,87.0
+323,thin,sonoma,2007,95.0
+324,thin,sonoma,2008,93.0
+325,thin,sonoma,2009,91.0
+326,thin,sonoma,2010,92.0
+327,thin,sonoma,2011,90.0
+328,thin,sonoma,2012,90.0
+329,thin,sonoma,2013,95.0
+330,thin,sonoma,2014,94.0
+331,thin,sonoma,2015,92.0
+332,thin,sonoma,2016,95.0
+333,thin,sonoma,2017,90.0
+334,thin,sonoma,2018,92.0
+335,thin,sonoma,2019,91.0
+336,thin,sonoma,2020,90.0
+337,thin,willamette valley,1996,87.0
+338,thin,willamette valley,1997,84.0
+339,thin,willamette valley,1998,82.0
+340,thin,willamette valley,1999,94.0
+341,thin,willamette valley,2000,91.0
+342,thin,willamette valley,2001,89.0
+343,thin,willamette valley,2002,88.0
+344,thin,willamette valley,2003,86.0
+345,thin,willamette valley,2004,92.0
+346,thin,willamette valley,2005,89.0
+347,thin,willamette valley,2006,94.0
+348,thin,willamette valley,2007,86.0
+349,thin,willamette valley,2008,92.0
+350,thin,willamette valley,2009,91.0
+351,thin,willamette valley,2010,87.0
+352,thin,willamette valley,2011,89.0
+353,thin,willamette valley,2012,93.0
+354,thin,willamette valley,2013,92.0
+355,thin,willamette valley,2014,93.0
+356,thin,willamette valley,2015,95.0
+357,thin,willamette valley,2016,91.0
+358,thin,willamette valley,2017,93.0
+359,thin,willamette valley,2018,92.0
+360,thin,willamette valley,2019,91.0
+361,thin,willamette valley,2020,85.0

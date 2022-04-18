@@ -1,0 +1,536 @@
+﻿varietal,state,region,vintage,vintage_rating
+chardonnay,CA,napa,1996,90
+chardonnay,CA,napa,1997,94
+chardonnay,CA,napa,1998,87
+chardonnay,CA,napa,1999,88
+chardonnay,CA,napa,2000,88
+chardonnay,CA,napa,2001,90
+chardonnay,CA,napa,2002,90
+chardonnay,CA,napa,2003,85
+chardonnay,CA,napa,2004,85
+chardonnay,CA,napa,2005,86
+chardonnay,CA,napa,2006,86
+chardonnay,CA,napa,2007,90
+chardonnay,CA,napa,2008,87
+chardonnay,CA,napa,2009,88
+chardonnay,CA,napa,2010,87
+chardonnay,CA,napa,2011,87
+chardonnay,CA,napa,2012,91
+chardonnay,CA,napa,2013,91
+chardonnay,CA,napa,2014,92
+chardonnay,CA,napa,2015,90
+chardonnay,CA,napa,2016,94
+chardonnay,CA,napa,2017,90
+chardonnay,CA,napa,2018,93
+chardonnay,CA,napa,2019,92
+cabernet sauvignon,CA,napa,1996,93
+cabernet sauvignon,CA,napa,1997,96
+cabernet sauvignon,CA,napa,1998,85
+cabernet sauvignon,CA,napa,1999,93
+cabernet sauvignon,CA,napa,2000,85
+cabernet sauvignon,CA,napa,2001,98
+cabernet sauvignon,CA,napa,2002,93
+cabernet sauvignon,CA,napa,2003,90
+cabernet sauvignon,CA,napa,2004,90
+cabernet sauvignon,CA,napa,2005,90
+cabernet sauvignon,CA,napa,2006,95
+cabernet sauvignon,CA,napa,2007,90
+cabernet sauvignon,CA,napa,2008,95
+cabernet sauvignon,CA,napa,2009,92
+cabernet sauvignon,CA,napa,2010,89
+cabernet sauvignon,CA,napa,2011,89
+cabernet sauvignon,CA,napa,2012,89
+cabernet sauvignon,CA,napa,2013,95
+cabernet sauvignon,CA,napa,2014,94
+cabernet sauvignon,CA,napa,2015,95
+cabernet sauvignon,CA,napa,2016,95
+cabernet sauvignon,CA,napa,2017,90
+cabernet sauvignon,CA,napa,2018,94
+cabernet sauvignon,CA,napa,2019,94
+zinfadel,CA,napa,1996,88
+zinfadel,CA,napa,1997,89
+zinfadel,CA,napa,1998,85
+zinfadel,CA,napa,1999,90
+zinfadel,CA,napa,2000,85
+zinfadel,CA,napa,2001,91
+zinfadel,CA,napa,2002,86
+zinfadel,CA,napa,2003,88
+zinfadel,CA,napa,2004,90
+zinfadel,CA,napa,2005,87
+zinfadel,CA,napa,2006,87
+zinfadel,CA,napa,2007,94
+zinfadel,CA,napa,2008,89
+zinfadel,CA,napa,2009,89
+zinfadel,CA,napa,2010,89
+zinfadel,CA,napa,2011,89
+zinfadel,CA,napa,2012,92
+zinfadel,CA,napa,2013,93
+zinfadel,CA,napa,2014,93
+zinfadel,CA,napa,2015,93
+zinfadel,CA,napa,2016,93
+zinfadel,CA,napa,2017,89
+zinfadel,CA,napa,2018,90
+zinfadel,CA,napa,2019,90
+zinfadel,CA,napa,2020,90
+chardonnay,CA,RRV,1996,92
+chardonnay,CA,RRV,1997,95
+chardonnay,CA,RRV,1998,88
+chardonnay,CA,RRV,1999,92
+chardonnay,CA,RRV,2000,90
+chardonnay,CA,RRV,2001,93
+chardonnay,CA,RRV,2002,97
+chardonnay,CA,RRV,2003,91
+chardonnay,CA,RRV,2004,93
+chardonnay,CA,RRV,2005,91
+chardonnay,CA,RRV,2006,86
+chardonnay,CA,RRV,2007,92
+chardonnay,CA,RRV,2008,90
+chardonnay,CA,RRV,2009,87
+chardonnay,CA,RRV,2010,89
+chardonnay,CA,RRV,2011,89
+chardonnay,CA,RRV,2012,93
+chardonnay,CA,RRV,2013,94
+chardonnay,CA,RRV,2014,94
+chardonnay,CA,RRV,2015,92
+chardonnay,CA,RRV,2016,94
+chardonnay,CA,RRV,2017,92
+chardonnay,CA,RRV,2018,94
+chardonnay,CA,RRV,2019,94
+chardonnay,CA,RRV,2020,92
+pinot noir,CA,RRV,1996,90
+pinot noir,CA,RRV,1997,91
+pinot noir,CA,RRV,1998,85
+pinot noir,CA,RRV,1999,91
+pinot noir,CA,RRV,2000,89
+pinot noir,CA,RRV,2001,90
+pinot noir,CA,RRV,2002,89
+pinot noir,CA,RRV,2003,90
+pinot noir,CA,RRV,2004,93
+pinot noir,CA,RRV,2005,95
+pinot noir,CA,RRV,2006,87
+pinot noir,CA,RRV,2007,96
+pinot noir,CA,RRV,2008,92
+pinot noir,CA,RRV,2009,90
+pinot noir,CA,RRV,2010,91
+pinot noir,CA,RRV,2011,89
+pinot noir,CA,RRV,2012,95
+pinot noir,CA,RRV,2013,95
+pinot noir,CA,RRV,2014,94
+pinot noir,CA,RRV,2015,92
+pinot noir,CA,RRV,2016,95
+pinot noir,CA,RRV,2017,92
+pinot noir,CA,RRV,2018,94
+pinot noir,CA,RRV,2019,94
+pinot noir,CA,RRV,2020,93
+cabernet sauvignon,CA,sonoma,1996,90
+cabernet sauvignon,CA,sonoma,1997,91
+cabernet sauvignon,CA,sonoma,1998,84
+cabernet sauvignon,CA,sonoma,1999,90
+cabernet sauvignon,CA,sonoma,2000,84
+cabernet sauvignon,CA,sonoma,2001,93
+cabernet sauvignon,CA,sonoma,2002,88
+cabernet sauvignon,CA,sonoma,2003,89
+cabernet sauvignon,CA,sonoma,2004,87
+cabernet sauvignon,CA,sonoma,2005,89
+cabernet sauvignon,CA,sonoma,2006,87
+cabernet sauvignon,CA,sonoma,2007,92
+cabernet sauvignon,CA,sonoma,2008,90
+cabernet sauvignon,CA,sonoma,2009,87
+cabernet sauvignon,CA,sonoma,2010,87
+cabernet sauvignon,CA,sonoma,2011,88
+cabernet sauvignon,CA,sonoma,2012,93
+cabernet sauvignon,CA,sonoma,2013,94
+cabernet sauvignon,CA,sonoma,2014,93
+cabernet sauvignon,CA,sonoma,2015,93
+cabernet sauvignon,CA,sonoma,2016,94
+cabernet sauvignon,CA,sonoma,2017,90
+cabernet sauvignon,CA,sonoma,2018,92
+cabernet sauvignon,CA,sonoma,2019,91
+pinot noir,CA,sonoma,1996,88
+pinot noir,CA,sonoma,1997,90
+pinot noir,CA,sonoma,1998,85
+pinot noir,CA,sonoma,1999,90
+pinot noir,CA,sonoma,2000,87
+pinot noir,CA,sonoma,2001,89
+pinot noir,CA,sonoma,2002,88
+pinot noir,CA,sonoma,2003,89
+pinot noir,CA,sonoma,2004,93
+pinot noir,CA,sonoma,2005,95
+pinot noir,CA,sonoma,2006,87
+pinot noir,CA,sonoma,2007,95
+pinot noir,CA,sonoma,2008,93
+pinot noir,CA,sonoma,2009,91
+pinot noir,CA,sonoma,2010,92
+pinot noir,CA,sonoma,2011,90
+pinot noir,CA,sonoma,2012,90
+pinot noir,CA,sonoma,2013,95
+pinot noir,CA,sonoma,2014,94
+pinot noir,CA,sonoma,2015,92
+pinot noir,CA,sonoma,2016,95
+pinot noir,CA,sonoma,2017,90
+pinot noir,CA,sonoma,2018,92
+pinot noir,CA,sonoma,2019,91
+pinot noir,CA,sonoma,2020,90
+zinfadel,CA,sonoma,1996,90
+zinfadel,CA,sonoma,1997,88
+zinfadel,CA,sonoma,1998,86
+zinfadel,CA,sonoma,1999,90
+zinfadel,CA,sonoma,2000,86
+zinfadel,CA,sonoma,2001,91
+zinfadel,CA,sonoma,2002,88
+zinfadel,CA,sonoma,2003,89
+zinfadel,CA,sonoma,2004,90
+zinfadel,CA,sonoma,2005,90
+zinfadel,CA,sonoma,2006,86
+zinfadel,CA,sonoma,2007,93
+zinfadel,CA,sonoma,2008,88
+zinfadel,CA,sonoma,2009,89
+zinfadel,CA,sonoma,2010,89
+zinfadel,CA,sonoma,2011,89
+zinfadel,CA,sonoma,2012,92
+zinfadel,CA,sonoma,2013,93
+zinfadel,CA,sonoma,2014,93
+zinfadel,CA,sonoma,2015,93
+zinfadel,CA,sonoma,2016,93
+zinfadel,CA,sonoma,2017,89
+zinfadel,CA,sonoma,2018,92
+zinfadel,CA,sonoma,2019,91
+zinfadel,CA,sonoma,2020,90
+chardonnay,CA,carneros,1996,90
+chardonnay,CA,carneros,1997,91
+chardonnay,CA,carneros,1998,85
+chardonnay,CA,carneros,1999,89
+chardonnay,CA,carneros,2000,89
+chardonnay,CA,carneros,2001,93
+chardonnay,CA,carneros,2002,95
+chardonnay,CA,carneros,2003,91
+chardonnay,CA,carneros,2004,92
+chardonnay,CA,carneros,2005,87
+chardonnay,CA,carneros,2006,85
+chardonnay,CA,carneros,2007,91
+chardonnay,CA,carneros,2008,89
+chardonnay,CA,carneros,2009,87
+chardonnay,CA,carneros,2010,88
+chardonnay,CA,carneros,2011,88
+chardonnay,CA,carneros,2012,92
+chardonnay,CA,carneros,2013,93
+chardonnay,CA,carneros,2014,94
+chardonnay,CA,carneros,2015,90
+chardonnay,CA,carneros,2016,92
+chardonnay,CA,carneros,2017,92
+chardonnay,CA,carneros,2018,92
+chardonnay,CA,carneros,2019,91
+chardonnay,CA,carneros,2020,90
+pinot noir,CA,carneros,1996,86
+pinot noir,CA,carneros,1997,85
+pinot noir,CA,carneros,1998,83
+pinot noir,CA,carneros,1999,87
+pinot noir,CA,carneros,2000,85
+pinot noir,CA,carneros,2001,87
+pinot noir,CA,carneros,2002,85
+pinot noir,CA,carneros,2003,89
+pinot noir,CA,carneros,2004,89
+pinot noir,CA,carneros,2005,93
+pinot noir,CA,carneros,2006,86
+pinot noir,CA,carneros,2007,94
+pinot noir,CA,carneros,2008,90
+pinot noir,CA,carneros,2009,89
+pinot noir,CA,carneros,2010,90
+pinot noir,CA,carneros,2011,87
+pinot noir,CA,carneros,2012,93
+pinot noir,CA,carneros,2013,94
+pinot noir,CA,carneros,2014,93
+pinot noir,CA,carneros,2015,91
+pinot noir,CA,carneros,2016,92
+pinot noir,CA,carneros,2017,91
+pinot noir,CA,carneros,2018,91
+pinot noir,CA,carneros,2019,90
+pinot noir,CA,carneros,2020,91
+pinot noir,CA,anderson valley,2002,87
+pinot noir,CA,anderson valley,2003,90
+pinot noir,CA,anderson valley,2004,90
+pinot noir,CA,anderson valley,2005,94
+pinot noir,CA,anderson valley,2006,88
+pinot noir,CA,anderson valley,2007,95
+pinot noir,CA,anderson valley,2008,92
+pinot noir,CA,anderson valley,2009,93
+pinot noir,CA,anderson valley,2010,93
+pinot noir,CA,anderson valley,2011,91
+pinot noir,CA,anderson valley,2012,96
+pinot noir,CA,anderson valley,2013,95
+pinot noir,CA,anderson valley,2014,93
+pinot noir,CA,anderson valley,2015,94
+pinot noir,CA,anderson valley,2016,92
+pinot noir,CA,anderson valley,2017,90
+pinot noir,CA,anderson valley,2018,95
+pinot noir,CA,anderson valley,2019,93
+pinot noir,CA,anderson valley,2020,89
+chardonnay,CA,santa barbara,1996,90
+chardonnay,CA,santa barbara,1997,95
+chardonnay,CA,santa barbara,1998,88
+chardonnay,CA,santa barbara,1999,91
+chardonnay,CA,santa barbara,2000,88
+chardonnay,CA,santa barbara,2001,91
+chardonnay,CA,santa barbara,2002,94
+chardonnay,CA,santa barbara,2003,92
+chardonnay,CA,santa barbara,2004,92
+chardonnay,CA,santa barbara,2005,89
+chardonnay,CA,santa barbara,2006,90
+chardonnay,CA,santa barbara,2007,92
+chardonnay,CA,santa barbara,2008,91
+chardonnay,CA,santa barbara,2009,90
+chardonnay,CA,santa barbara,2010,92
+chardonnay,CA,santa barbara,2011,92
+chardonnay,CA,santa barbara,2012,93
+chardonnay,CA,santa barbara,2013,93
+chardonnay,CA,santa barbara,2014,93
+chardonnay,CA,santa barbara,2015,92
+chardonnay,CA,santa barbara,2016,93
+chardonnay,CA,santa barbara,2017,93
+chardonnay,CA,santa barbara,2018,93
+chardonnay,CA,santa barbara,2019,93
+chardonnay,CA,santa barbara,2020,92
+pinot noir,CA,santa barbara,1996,89
+pinot noir,CA,santa barbara,1997,95
+pinot noir,CA,santa barbara,1998,84
+pinot noir,CA,santa barbara,1999,90
+pinot noir,CA,santa barbara,2000,89
+pinot noir,CA,santa barbara,2001,92
+pinot noir,CA,santa barbara,2002,94
+pinot noir,CA,santa barbara,2003,94
+pinot noir,CA,santa barbara,2004,93
+pinot noir,CA,santa barbara,2005,95
+pinot noir,CA,santa barbara,2006,90
+pinot noir,CA,santa barbara,2007,95
+pinot noir,CA,santa barbara,2008,92
+pinot noir,CA,santa barbara,2009,91
+pinot noir,CA,santa barbara,2010,92
+pinot noir,CA,santa barbara,2011,90
+pinot noir,CA,santa barbara,2012,94
+pinot noir,CA,santa barbara,2013,93
+pinot noir,CA,santa barbara,2014,93
+pinot noir,CA,santa barbara,2015,93
+pinot noir,CA,santa barbara,2016,94
+pinot noir,CA,santa barbara,2017,91
+pinot noir,CA,santa barbara,2018,93
+pinot noir,CA,santa barbara,2019,94
+pinot noir,CA,santa barbara,2020,93
+chardonnay,CA,central coast,1996,88
+chardonnay,CA,central coast,1997,94
+chardonnay,CA,central coast,1998,85
+chardonnay,CA,central coast,1999,89
+chardonnay,CA,central coast,2000,89
+chardonnay,CA,central coast,2001,90
+chardonnay,CA,central coast,2002,94
+chardonnay,CA,central coast,2003,92
+chardonnay,CA,central coast,2004,93
+chardonnay,CA,central coast,2005,90
+chardonnay,CA,central coast,2006,87
+chardonnay,CA,central coast,2007,92
+chardonnay,CA,central coast,2008,90
+chardonnay,CA,central coast,2009,88
+chardonnay,CA,central coast,2010,91
+chardonnay,CA,central coast,2011,90
+chardonnay,CA,central coast,2012,92
+chardonnay,CA,central coast,2013,92
+chardonnay,CA,central coast,2014,92
+chardonnay,CA,central coast,2015,91
+chardonnay,CA,central coast,2016,92
+chardonnay,CA,central coast,2017,92
+chardonnay,CA,central coast,2018,92
+chardonnay,CA,central coast,2019,92
+chardonnay,CA,central coast,2020,91
+pinot noir,CA,central coast,1996,87
+pinot noir,CA,central coast,1997,93
+pinot noir,CA,central coast,1998,86
+pinot noir,CA,central coast,1999,89
+pinot noir,CA,central coast,2000,88
+pinot noir,CA,central coast,2001,91
+pinot noir,CA,central coast,2002,85
+pinot noir,CA,central coast,2003,93
+pinot noir,CA,central coast,2004,89
+pinot noir,CA,central coast,2005,92
+pinot noir,CA,central coast,2006,88
+pinot noir,CA,central coast,2007,94
+pinot noir,CA,central coast,2008,89
+pinot noir,CA,central coast,2009,89
+pinot noir,CA,central coast,2010,93
+pinot noir,CA,central coast,2011,88
+pinot noir,CA,central coast,2012,92
+pinot noir,CA,central coast,2013,92
+pinot noir,CA,central coast,2014,93
+pinot noir,CA,central coast,2015,91
+pinot noir,CA,central coast,2016,92
+pinot noir,CA,central coast,2017,90
+pinot noir,CA,central coast,2018,92
+pinot noir,CA,central coast,2019,93
+pinot noir,CA,central coast,2020,92
+syrah,CA,central coast,1998,83
+syrah,CA,central coast,1999,86
+syrah,CA,central coast,2000,84
+syrah,CA,central coast,2001,91
+syrah,CA,central coast,2002,88
+syrah,CA,central coast,2003,92
+syrah,CA,central coast,2004,86
+syrah,CA,central coast,2005,84
+syrah,CA,central coast,2006,85
+syrah,CA,central coast,2007,90
+syrah,CA,central coast,2008,87
+syrah,CA,central coast,2009,87
+syrah,CA,central coast,2010,89
+syrah,CA,central coast,2011,88
+syrah,CA,central coast,2012,89
+syrah,CA,central coast,2013,90
+syrah,CA,central coast,2014,92
+syrah,CA,central coast,2015,91
+syrah,CA,central coast,2016,92
+syrah,CA,central coast,2017,92
+syrah,CA,central coast,2018,92
+syrah,CA,central coast,2019,93
+syrah,CA,central coast,2020,92
+syrah,CA,north coast,1998,83
+syrah,CA,north coast,1999,89
+syrah,CA,north coast,2000,84
+syrah,CA,north coast,2001,92
+syrah,CA,north coast,2002,88
+syrah,CA,north coast,2003,89
+syrah,CA,north coast,2004,89
+syrah,CA,north coast,2005,85
+syrah,CA,north coast,2006,88
+syrah,CA,north coast,2007,93
+syrah,CA,north coast,2008,88
+syrah,CA,north coast,2009,88
+syrah,CA,north coast,2010,88
+syrah,CA,north coast,2011,89
+syrah,CA,north coast,2012,92
+syrah,CA,north coast,2013,91
+syrah,CA,north coast,2014,91
+syrah,CA,north coast,2015,92
+syrah,CA,north coast,2016,92
+syrah,CA,north coast,2017,90
+syrah,CA,north coast,2018,91
+syrah,CA,north coast,2019,92
+syrah,CA,north coast,2020,89
+syrah,CA,south coast,1998,83
+syrah,CA,south coast,1999,88
+syrah,CA,south coast,2000,85
+syrah,CA,south coast,2001,92
+syrah,CA,south coast,2002,89
+syrah,CA,south coast,2003,91
+syrah,CA,south coast,2004,89
+syrah,CA,south coast,2005,87
+syrah,CA,south coast,2006,91
+syrah,CA,south coast,2007,95
+syrah,CA,south coast,2008,88
+syrah,CA,south coast,2009,90
+syrah,CA,south coast,2010,90
+syrah,CA,south coast,2011,87
+syrah,CA,south coast,2012,88
+syrah,CA,south coast,2013,88
+syrah,CA,south coast,2014,88
+syrah,CA,south coast,2015,88
+syrah,CA,south coast,2016,88
+syrah,CA,south coast,2017,89
+syrah,CA,south coast,2018,89
+syrah,CA,south coast,2019,89
+syrah,CA,south coast,2020,89
+zinfadel,CA,sierra foothills,1996,85
+zinfadel,CA,sierra foothills,1997,84
+zinfadel,CA,sierra foothills,1998,84
+zinfadel,CA,sierra foothills,1999,85
+zinfadel,CA,sierra foothills,2000,84
+zinfadel,CA,sierra foothills,2001,85
+zinfadel,CA,sierra foothills,2002,86
+zinfadel,CA,sierra foothills,2003,87
+zinfadel,CA,sierra foothills,2004,89
+zinfadel,CA,sierra foothills,2005,87
+zinfadel,CA,sierra foothills,2006,87
+zinfadel,CA,sierra foothills,2007,90
+zinfadel,CA,sierra foothills,2008,88
+zinfadel,CA,sierra foothills,2009,90
+zinfadel,CA,sierra foothills,2010,91
+zinfadel,CA,sierra foothills,2011,89
+zinfadel,CA,sierra foothills,2012,92
+zinfadel,CA,sierra foothills,2013,93
+zinfadel,CA,sierra foothills,2014,93
+zinfadel,CA,sierra foothills,2015,94
+zinfadel,CA,sierra foothills,2016,94
+zinfadel,CA,sierra foothills,2017,89
+zinfadel,CA,sierra foothills,2018,93
+zinfadel,CA,sierra foothills,2019,91
+zinfadel,CA,sierra foothills,2020,92
+pinot noir,OR,willamette valley,1996,87
+pinot noir,OR,willamette valley,1997,84
+pinot noir,OR,willamette valley,1998,82
+pinot noir,OR,willamette valley,1999,94
+pinot noir,OR,willamette valley,2000,91
+pinot noir,OR,willamette valley,2001,89
+pinot noir,OR,willamette valley,2002,88
+pinot noir,OR,willamette valley,2003,86
+pinot noir,OR,willamette valley,2004,92
+pinot noir,OR,willamette valley,2005,89
+pinot noir,OR,willamette valley,2006,94
+pinot noir,OR,willamette valley,2007,86
+pinot noir,OR,willamette valley,2008,92
+pinot noir,OR,willamette valley,2009,91
+pinot noir,OR,willamette valley,2010,87
+pinot noir,OR,willamette valley,2011,89
+pinot noir,OR,willamette valley,2012,93
+pinot noir,OR,willamette valley,2013,92
+pinot noir,OR,willamette valley,2014,93
+pinot noir,OR,willamette valley,2015,95
+pinot noir,OR,willamette valley,2016,91
+pinot noir,OR,willamette valley,2017,93
+pinot noir,OR,willamette valley,2018,92
+pinot noir,OR,willamette valley,2019,91
+pinot noir,OR,willamette valley,2020,85
+cabernet sauvignon,WA,columbia valley,1996,86
+cabernet sauvignon,WA,columbia valley,1997,87
+cabernet sauvignon,WA,columbia valley,1998,91
+cabernet sauvignon,WA,columbia valley,1999,96
+cabernet sauvignon,WA,columbia valley,2000,88
+cabernet sauvignon,WA,columbia valley,2001,92
+cabernet sauvignon,WA,columbia valley,2002,94
+cabernet sauvignon,WA,columbia valley,2003,92
+cabernet sauvignon,WA,columbia valley,2004,89
+cabernet sauvignon,WA,columbia valley,2005,95
+cabernet sauvignon,WA,columbia valley,2006,92
+cabernet sauvignon,WA,columbia valley,2007,93
+cabernet sauvignon,WA,columbia valley,2008,92
+cabernet sauvignon,WA,columbia valley,2009,90
+cabernet sauvignon,WA,columbia valley,2010,92
+cabernet sauvignon,WA,columbia valley,2011,89
+cabernet sauvignon,WA,columbia valley,2012,95
+cabernet sauvignon,WA,columbia valley,2013,91
+cabernet sauvignon,WA,columbia valley,2014,93
+cabernet sauvignon,WA,columbia valley,2015,90
+cabernet sauvignon,WA,columbia valley,2016,90
+cabernet sauvignon,WA,columbia valley,2017,91
+cabernet sauvignon,WA,columbia valley,2018,95
+cabernet sauvignon,WA,columbia valley,2019,92
+cabernet sauvignon,WA,columbia valley,2020,91
+syrah,WA,columbia valley,1996,88
+syrah,WA,columbia valley,1997,87
+syrah,WA,columbia valley,1998,89
+syrah,WA,columbia valley,1999,92
+syrah,WA,columbia valley,2000,88
+syrah,WA,columbia valley,2001,93
+syrah,WA,columbia valley,2002,94
+syrah,WA,columbia valley,2003,91
+syrah,WA,columbia valley,2004,90
+syrah,WA,columbia valley,2005,93
+syrah,WA,columbia valley,2006,91
+syrah,WA,columbia valley,2007,89
+syrah,WA,columbia valley,2008,90
+syrah,WA,columbia valley,2009,91
+syrah,WA,columbia valley,2010,89
+syrah,WA,columbia valley,2011,91
+syrah,WA,columbia valley,2012,95
+syrah,WA,columbia valley,2013,90
+syrah,WA,columbia valley,2014,90
+syrah,WA,columbia valley,2015,91
+syrah,WA,columbia valley,2016,91
+syrah,WA,columbia valley,2017,91
+syrah,WA,columbia valley,2018,93
+syrah,WA,columbia valley,2019,93
+syrah,WA,columbia valley,2020,92
