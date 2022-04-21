@@ -13,12 +13,12 @@ class CNNBlock(Layer):
         self.apool_month = AveragePooling1D(pool_size=1, name='AvgMonthPool')
         self.mpool_month = MaxPooling1D(pool_size=1, name='MaxMonthPool')
 
-    def call(self, inputs, pool=None):
+    def call(self, inputs):
         x = self.conv_week(inputs)
         x = self.conv_month(x)
-        if pool == 'avg':
+        if self.pool == 'avg':
             x = self.apool_month(x)
-        elif pool == 'max':
+        elif self.pool == 'max':
             x = self.mpool_month(x)
-        
+
         return x
