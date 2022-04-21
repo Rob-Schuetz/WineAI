@@ -1,0 +1,224 @@
+skin,file,quality
+1,RRV-2008.csv,91.0
+1,RRV-2020.csv,92.5
+0,sierra foothills-2010.csv,91.0
+0,sierra foothills-2011.csv,89.0
+0,south coast-2020.csv,89.0
+1,RRV-2009.csv,88.5
+0,sonoma-2009.csv,88.0
+1,sonoma-2009.csv,91.0
+0,napa-2008.csv,92.0
+1,napa-2008.csv,87.0
+0,napa-2020.csv,90.0
+0,sierra foothills-2013.csv,93.0
+0,sierra foothills-2012.csv,92.0
+0,napa-2009.csv,90.5
+1,napa-2009.csv,88.0
+0,sonoma-2020.csv,90.0
+1,sonoma-2020.csv,90.0
+0,sonoma-2008.csv,89.0
+1,sonoma-2008.csv,93.0
+0,sonoma-2018.csv,92.0
+1,sonoma-2018.csv,92.0
+0,napa-2019.csv,92.0
+1,napa-2019.csv,92.0
+0,sierra foothills-2016.csv,94.0
+0,columbia valley-1999.csv,94.0
+0,columbia valley-1998.csv,90.0
+0,sierra foothills-2017.csv,89.0
+0,napa-2018.csv,92.0
+1,napa-2018.csv,93.0
+0,sonoma-2019.csv,91.0
+1,sonoma-2019.csv,91.0
+1,RRV-2019.csv,94.0
+0,sierra foothills-2015.csv,94.0
+0,sierra foothills-2014.csv,93.0
+1,RRV-2018.csv,94.0
+0,north coast-2018.csv,91.0
+1,willamette valley-2018.csv,92.0
+1,santa barbara-2009.csv,90.5
+1,carneros-2001.csv,90.0
+1,carneros-2015.csv,90.5
+0,columbia valley-2013.csv,90.5
+0,columbia valley-2007.csv,91.0
+1,anderson valley-2005.csv,94.0
+1,anderson valley-2011.csv,91.0
+1,anderson valley-2010.csv,93.0
+1,anderson valley-2004.csv,90.0
+0,columbia valley-2006.csv,91.5
+0,columbia valley-2012.csv,95.0
+1,carneros-2014.csv,93.5
+1,carneros-2000.csv,87.0
+1,santa barbara-2020.csv,92.5
+1,willamette valley-2019.csv,91.0
+0,north coast-2019.csv,92.0
+1,carneros-2016.csv,92.0
+1,carneros-2002.csv,90.0
+0,columbia valley-2004.csv,89.5
+0,columbia valley-2010.csv,90.5
+1,anderson valley-2012.csv,96.0
+1,anderson valley-2006.csv,88.0
+1,anderson valley-2007.csv,95.0
+1,anderson valley-2013.csv,95.0
+0,columbia valley-2011.csv,90.0
+0,columbia valley-2005.csv,94.0
+1,carneros-2003.csv,90.0
+1,carneros-2017.csv,91.5
+1,carneros-2013.csv,93.5
+1,carneros-2007.csv,92.5
+0,columbia valley-2015.csv,90.5
+1,anderson valley-2017.csv,90.0
+1,anderson valley-2016.csv,92.0
+0,columbia valley-2014.csv,91.5
+1,carneros-2006.csv,85.5
+1,carneros-2012.csv,92.5
+1,willamette valley-2009.csv,91.0
+0,north coast-2009.csv,88.0
+1,santa barbara-2018.csv,93.0
+1,carneros-2004.csv,90.5
+1,carneros-2010.csv,89.0
+0,columbia valley-2016.csv,90.5
+1,anderson valley-2014.csv,93.0
+1,anderson valley-2015.csv,94.0
+0,columbia valley-2017.csv,91.0
+1,carneros-2011.csv,87.5
+1,carneros-2005.csv,90.0
+1,santa barbara-2019.csv,93.5
+1,willamette valley-2020.csv,85.0
+0,north coast-2020.csv,89.0
+0,north coast-2008.csv,88.0
+1,willamette valley-2008.csv,92.0
+1,willamette valley-2011.csv,89.0
+0,north coast-2005.csv,85.0
+0,north coast-2011.csv,89.0
+1,santa barbara-2014.csv,93.0
+1,carneros-2008.csv,89.5
+1,carneros-2020.csv,90.5
+1,anderson valley-2018.csv,95.0
+1,anderson valley-2019.csv,93.0
+1,carneros-2009.csv,88.0
+1,santa barbara-2015.csv,92.5
+0,north coast-2010.csv,88.0
+0,north coast-2004.csv,89.0
+1,willamette valley-2010.csv,87.0
+0,north coast-2012.csv,92.0
+1,willamette valley-2006.csv,94.0
+1,willamette valley-2012.csv,93.0
+0,north coast-2006.csv,88.0
+1,santa barbara-2017.csv,92.0
+0,columbia valley-2019.csv,92.5
+0,columbia valley-2018.csv,94.0
+1,santa barbara-2016.csv,93.5
+0,north coast-2007.csv,93.0
+1,willamette valley-2013.csv,92.0
+1,willamette valley-2007.csv,86.0
+0,north coast-2013.csv,91.0
+0,north coast-2017.csv,90.0
+1,willamette valley-2017.csv,93.0
+0,north coast-2003.csv,89.0
+1,santa barbara-2012.csv,93.5
+0,columbia valley-2008.csv,91.0
+0,columbia valley-2020.csv,91.5
+0,columbia valley-2009.csv,90.5
+1,santa barbara-2013.csv,93.0
+0,north coast-2002.csv,88.0
+1,willamette valley-2016.csv,91.0
+0,north coast-2016.csv,92.0
+1,willamette valley-2014.csv,93.0
+0,north coast-2000.csv,84.0
+0,north coast-2014.csv,91.0
+1,santa barbara-2011.csv,91.0
+1,carneros-2019.csv,90.5
+1,anderson valley-2009.csv,93.0
+1,anderson valley-2020.csv,89.0
+1,anderson valley-2008.csv,92.0
+1,carneros-2018.csv,91.5
+1,santa barbara-2010.csv,92.0
+0,north coast-2015.csv,92.0
+0,north coast-2001.csv,92.0
+1,willamette valley-2015.csv,95.0
+0,sonoma-2003.csv,89.0
+1,sonoma-2003.csv,89.0
+0,sonoma-2017.csv,89.5
+1,sonoma-2017.csv,90.0
+1,RRV-2015.csv,92.0
+1,RRV-2001.csv,91.5
+0,napa-2002.csv,89.5
+1,napa-2002.csv,90.0
+0,napa-2016.csv,94.0
+1,napa-2016.csv,94.0
+0,sierra foothills-2019.csv,91.0
+0,columbia valley-1997.csv,87.0
+0,sierra foothills-2018.csv,93.0
+0,napa-2017.csv,89.5
+1,napa-2017.csv,90.0
+0,napa-2003.csv,89.0
+1,napa-2003.csv,85.0
+1,RRV-2000.csv,89.5
+1,RRV-2014.csv,94.0
+0,sonoma-2016.csv,93.5
+1,sonoma-2016.csv,95.0
+0,sonoma-2002.csv,88.0
+1,sonoma-2002.csv,88.0
+0,sonoma-2014.csv,93.0
+1,sonoma-2014.csv,94.0
+0,sonoma-2000.csv,85.0
+1,sonoma-2000.csv,87.0
+1,RRV-2002.csv,93.0
+1,RRV-2016.csv,94.5
+0,napa-2015.csv,94.0
+1,napa-2015.csv,90.0
+0,napa-2001.csv,94.5
+1,napa-2001.csv,90.0
+0,napa-2000.csv,85.0
+1,napa-2000.csv,88.0
+0,napa-2014.csv,93.5
+1,napa-2014.csv,92.0
+1,RRV-2017.csv,92.0
+1,RRV-2003.csv,90.5
+0,sonoma-2001.csv,92.0
+1,sonoma-2001.csv,89.0
+0,sonoma-2015.csv,93.0
+1,sonoma-2015.csv,92.0
+0,sonoma-2011.csv,88.5
+1,sonoma-2011.csv,90.0
+0,sonoma-2005.csv,89.5
+1,sonoma-2005.csv,95.0
+1,RRV-2007.csv,94.0
+1,RRV-2013.csv,94.5
+0,napa-2010.csv,89.0
+1,napa-2010.csv,87.0
+0,napa-2004.csv,90.0
+1,napa-2004.csv,85.0
+0,napa-2005.csv,88.5
+1,napa-2005.csv,86.0
+0,napa-2011.csv,89.0
+1,napa-2011.csv,87.0
+1,RRV-2012.csv,94.0
+1,RRV-2006.csv,86.5
+0,sonoma-2004.csv,88.5
+1,sonoma-2004.csv,93.0
+0,sonoma-2010.csv,88.0
+1,sonoma-2010.csv,92.0
+0,sonoma-2006.csv,86.5
+1,sonoma-2006.csv,87.0
+0,sonoma-2012.csv,92.5
+1,sonoma-2012.csv,90.0
+1,RRV-2010.csv,90.0
+1,RRV-2004.csv,93.0
+0,napa-2007.csv,92.0
+1,napa-2007.csv,90.0
+0,napa-2013.csv,94.0
+1,napa-2013.csv,91.0
+0,sierra foothills-2020.csv,92.0
+0,sierra foothills-2009.csv,90.0
+0,napa-2012.csv,90.5
+1,napa-2012.csv,91.0
+0,napa-2006.csv,91.0
+1,napa-2006.csv,86.0
+1,RRV-2005.csv,93.0
+1,RRV-2011.csv,89.0
+0,sonoma-2013.csv,93.5
+1,sonoma-2013.csv,95.0
+0,sonoma-2007.csv,92.5
+1,sonoma-2007.csv,95.0
