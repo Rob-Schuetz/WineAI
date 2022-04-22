@@ -1,5 +1,5 @@
 import pandas as pd
-from datetime import datetime
+import datetime
 import time
 from meteostat import Daily, Stations
 
@@ -34,8 +34,8 @@ class WeatherFetcher:
             station = stations.fetch(1).index.values[0]
 
             # Get daily data bewtween designated date range
-            start = datetime(int(row['min_year']), 1, 1)
-            end = datetime(int(row['max_year']), 12, 31)
+            start = datetime.datetime(int(row['min_year']), 1, 1)
+            end = datetime.datetime(int(row['max_year']), 12, 31)
             data = Daily(station, start, end)
             
             # Assign regional data to daily_weather_data dict
@@ -106,13 +106,44 @@ class WeatherFetcher:
         # Run the functions on every row in the provided database
         for idx, row in self.input[['region', 'vintage']].drop_duplicates().iterrows():
 
+            # Create data frame for every day in season
+            day1 = datetime.datetime(int(row["vintage"]), 3, 1)
+            date_range = [day1 + datetime.timedelta(days=x) for x in range(245)]
+            wd = pd.DataFrame(index = date_range)
+
             # Read in data for the designated region
             region_data = self.cleaned_weather_data[f'{row["region"]}']
-            self.output[f'{row["region"]}-{row["vintage"]}'] = region_data.loc[
-                (region_data['time'] >= datetime(int(row["vintage"]), 3, 1))
+            region_data = region_data.loc[
+                (region_data['time'] >= datetime.datetime(int(row["vintage"]), 3, 1))
             & 
-                (region_data['time'] <= datetime(int(row["vintage"]), 10, 31))
+                (region_data['time'] <= datetime.datetime(int(row["vintage"]), 10, 31))
             ].reset_index(drop=True)
+
+            # Merge data into indicated dates
+            wd = wd.merge(region_data, how = 'left', left_index = True, right_on = 'time')
+            wd.index = date_range
+            wd = wd.drop(columns = ['time'])
+
+            # Fill null rows with closest other row
+            notna_indexes = wd[wd['tavg'].isnull()].index.to_list()
+            for idx in notna_indexes:
+                i = 1
+                while i < 50:
+                    day_before = idx - datetime.timedelta(days=i)
+                    day_before = day_before if day_before > datetime.datetime(int(row["vintage"]), 3, 1) else datetime.datetime(int(row["vintage"]), 3, 1)
+                    day_after = idx + datetime.timedelta(days=i)
+                    day_after = day_after if day_after < datetime.datetime(int(row["vintage"]), 10, 31) else datetime.datetime(int(row["vintage"]), 10, 31)
+                    # print(day_after, day_after < datetime.datetime(int(row["vintage"]), 10, 31))
+                    # print([day_before, day_after])
+                    for day in [day_before, day_after]:
+                        # print(day)
+                        if not wd.loc[day].empty:
+                            wd.loc[idx] = wd.loc[day]
+                            break
+                    i += 1
+
+            # Assign data
+            self.output[f'{row["region"]}-{row["vintage"]}'] = wd
 
             # Report successful filtering 
             print(f'Data filtered for {row["region"]} ({row["vintage"]})')
